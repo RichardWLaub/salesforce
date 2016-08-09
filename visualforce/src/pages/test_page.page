@@ -1,0 +1,6 @@
+<apex:page >
+    <h1>
+        Header
+    </h1>
+    This is a page. Hello world
+</apex:page>
