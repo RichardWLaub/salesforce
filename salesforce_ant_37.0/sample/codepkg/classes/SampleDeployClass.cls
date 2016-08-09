@@ -11,6 +11,9 @@ public class SampleDeployClass {
         Account retAcc = [select id, phone from Account where id=:acc.id][0];
         System.assertEquals(getPhone(), retAcc.phone);
     }
+	public static int getWaveHeight() {
+		return 0;
+	}
 
     public static String getPhone() {
         return 'SamplePhone#';
