@@ -20,6 +20,6 @@ public class SampleDeployClass {
     }
 
     public static void helloMethod() {
-        System.debug('Go Broncos!!!!!!');
+        System.debug('Go Broncos!!!!!!! Hello world');
     }
 }
