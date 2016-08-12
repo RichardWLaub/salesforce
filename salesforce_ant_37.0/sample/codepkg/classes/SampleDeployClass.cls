@@ -18,8 +18,8 @@ public class SampleDeployClass {
     public static String getPhone() {
         return 'SamplePhone#';
     }
-    
+
     public static void helloMethod() {
-        System.debug('Go Broncos!!!');
+        System.debug('Go Broncos!!!!!!!!!!');
     }
 }
